@@ -1,0 +1,39 @@
+.signIn{
+    margin-left: 20px;
+    
+}
+
+table{
+    width: 100%;
+    /* margin: 20px 50px 0px 50px; */
+    background-color: rgb(247, 255, 96);
+    position: relative;
+    text-decoration: none;
+}
+
+.table-img-td{
+    width: 40%;
+    padding: 20px 100px 0px 100px;
+    position: absolute;
+}
+
+.table-img-td img{
+    border-radius: 100%;
+}
+
+
+.table-nav-td{
+    width: 60%;
+    padding: 30px;
+}
+
+.table-nav-text{
+    margin-left: 40px;
+    color: aliceblue;
+}
+
+/* css about btn in the navigation section */
+.sign-in{
+    margin-right: 50px;
+    margin-left: 40px;
+}

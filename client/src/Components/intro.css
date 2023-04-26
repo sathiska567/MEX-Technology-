@@ -1,0 +1,38 @@
+.Intro-div{
+    background-color:white;
+    height: 100vh;
+}
+.Intro-div-head{
+    color: rgb(0, 0, 0);
+    /* text-align: center; */
+    font-size: 50px;
+    text-align: center;
+}
+
+.Intro-div-head:hover{
+    text-decoration: underline blue;
+    cursor: pointer;
+}
+
+.Intro-div-para{
+    text-align: center;
+    padding: 0px 30px;
+
+}
+
+/* ============================================================= */
+
+
+.project-section-table{
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    /* border: 5px solid black; */
+    box-shadow: 5px 10px 28px #888888;
+
+}
+
+.project-section img{
+    width: 30%;
+}

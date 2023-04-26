@@ -1,0 +1,54 @@
+.footer-section-main-div{
+    background-image: url("../assets/footer-img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    color: white;
+    overflow-x: hidden;
+
+}
+
+
+.footer-section-main-div h1{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 50px;
+}
+
+.footer-section-main-div p{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    margin-bottom: 80px;
+}
+
+/* style grid system */
+.row{
+    text-align: center;
+}
+
+.font-div{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.font-div p{
+    font-weight: normal;
+}
+
+.font-div a{
+    color: white;
+    text-decoration: none;
+}
+
+.font-div a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+
+
+
+
+

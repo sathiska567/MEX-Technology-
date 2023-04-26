@@ -1,0 +1,27 @@
+.timeCounter-div{
+    background-color: lightyellow;
+    height: 40vh;
+    padding: 80px;
+}
+
+.counter-section{
+    background-color: black;
+    color: white;
+    width: 40%;
+    margin-left: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    border-radius: 10px;
+    box-shadow: 5px 10px 28px #888888;
+
+}
+
+.counter-section h1{
+    padding-top: 30px;
+}
+
+.timeCounter-div-text{
+    margin-left: 140px;
+}
